@@ -10,7 +10,6 @@ We focus on three interconnected areas: **early learning and childcare access**,
 
 ### 🧮 [Childcare Feasibility Calculator](https://github.com/WashingtonSTEM/childcarefeasibility)
 A web tool that helps childcare providers in Washington model the financial feasibility of operating a program. Covers enrollment mix, staffing, tuition, subsidies, and quality costs.
-👉 [Try it live](https://childcarefeasibility.vercel.app)
 
 ---
 
