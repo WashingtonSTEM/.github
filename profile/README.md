@@ -8,11 +8,6 @@ We focus on three interconnected areas: **early learning and childcare access**,
 
 ## Our Public Repositories
 
-### 🧮 [Childcare Feasibility Calculator](https://github.com/WashingtonSTEM/childcarefeasibility)
-A web tool that helps childcare providers in Washington model the financial feasibility of operating a program. Covers enrollment mix, staffing, tuition, subsidies, and quality costs.
-
----
-
 ### 🎓 [Horizons Technical Assistance Templates](https://github.com/WashingtonSTEM/Horizons_Public)
 R scripts and Tableau dashboards supporting the Horizons grants — place-based partnership/initiative connecting K–12 schools, colleges, and community organizations across five Washington regions to improve student transitions into certificates, degrees, and apprenticeships.
 
@@ -22,6 +17,12 @@ R scripts and Tableau dashboards supporting the Horizons grants — place-based 
 R scripts and Tableau dashboards for Washington STEM's High School to Postsecondary Collaborative (H2PC) — a partnership across 40+ schools statewide focused on equitable postsecondary preparation, dual credit access, and data-informed advising.
 
 ---
+
+### 🧮 [Childcare Feasibility Calculator](https://github.com/WashingtonSTEM/childcarefeasibility)
+A web tool that helps childcare providers in Washington model the financial feasibility of operating a program. Covers enrollment mix, staffing, tuition, subsidies, and quality costs.
+
+---
+
 
 ## Impact Team
 
