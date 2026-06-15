@@ -30,9 +30,9 @@ The repositories here are maintained by Washington STEM's Impact team.
 
 | Name | Role | GitHub |
 |------|------|--------|
-| Min Hwangbo | Impact Director | [@MinHwangbo](https://github.com/https://github.com/mhwangbo11) |
-| Mikel Poppe | Impact Data Manager | [@WashingtonSTEM](https://github.com/PoppeWASTEM) |
-| Rachel Tavolacci | Impact Portfolio Manager | [@WashingtonSTEM](https://github.com/racheltavolacci) |
+| Min Hwangbo | Impact Director | [@MinHwangbo](https://github.com/mhwangbo11) |
+| Mikel Poppe | Impact Data Manager | [@MikelPoppe](https://github.com/PoppeWASTEM) |
+| Rachel Tavolacci | Impact Portfolio Manager | [@RachelTavolacci](https://github.com/racheltavolacci) |
 
 Questions about a specific repository? Each repo's README lists the best contact.
 
