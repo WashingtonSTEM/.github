@@ -24,9 +24,9 @@ A web tool that helps childcare providers in Washington model the financial feas
 ---
 
 
-## Impact Team
+## Contributors
 
-The repositories here are maintained by Washington STEM's Impact team.
+The repositories here are maintained by Washington STEM's Data Strategy team.
 
 | Name | Role | GitHub |
 |------|------|--------|
