@@ -30,9 +30,9 @@ The repositories here are maintained by Washington STEM's Impact team.
 
 | Name | Role | GitHub |
 |------|------|--------|
-| Min Hwangbo | Impact Director | [@MinHwangbo](https://github.com/mhwangbo11) |
-| Mikel Poppe | Impact Data Manager | [@MikelPoppe](https://github.com/PoppeWASTEM) |
-| Rachel Tavolacci | Impact Portfolio Manager | [@RachelTavolacci](https://github.com/racheltavolacci) |
+| Min Hwangbo | Director of Data & Technology Strategy | [@MinHwangbo](https://github.com/mhwangbo11) |
+| Rachel Tavolacci | Senior Data Strategy Manager | [@RachelTavolacci](https://github.com/racheltavolacci) |
+| Mikel Poppe | Data Product Manager | [@MikelPoppe](https://github.com/PoppeWASTEM) |
 
 Questions about a specific repository? Each repo's README lists the best contact.
 
@@ -44,4 +44,4 @@ All public templates are licensed under [CC BY-NC 4.0](https://creativecommons.o
 
 - 🌐 [washingtonstem.org](https://washingtonstem.org)
 - 📬 General inquiries: [info@washingtonstem.org](mailto:info@washingtonstem.org)
-- 📊 Data & impact questions: [impact@washingtonstem.org](mailto:impact@washingtonstem.org)
+- 📊 Data/Technology/AI questions: [min@washingtonstem.org](mailto:min@washingtonstem.org)
